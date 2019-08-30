@@ -10,7 +10,7 @@ mason-roy 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.testqg.com:8080/hello-solo)
+* [世界，你好！](http://blog.doveop.com:8080/hello-solo)
 
 
 
