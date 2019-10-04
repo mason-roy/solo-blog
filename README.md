@@ -10,9 +10,7 @@ doveop团队的技术博客
 
 ### 最新
 
-* [qiuduan_test](http://blog.doveop.com/articles/2019/08/30/1567156140631.html)
-* [强哥的文章](http://blog.doveop.com/articles/2019/08/30/1567156004461.html)
-* [世界，你好！](http://blog.doveop.com/hello-solo)
+* [jenkins 安装及配置部署操作 （jenkins+svn+tomcat  and  jenkins+git+maven+tomcat）](http://blog.doveop.com/articles/2019/10/04/1570156484758.html)
 
 
 
