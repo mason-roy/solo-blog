@@ -10,6 +10,7 @@ doveop团队的技术博客
 
 ### 最新
 
+* [Doveop 技术团队介绍](http://blog.doveop.com/articles/2019/10/04/1570169675695.html)
 * [jenkins 安装及配置部署操作 （jenkins+svn+tomcat  and  jenkins+git+maven+tomcat）](http://blog.doveop.com/articles/2019/10/04/1570156484758.html)
 
 
