@@ -10,6 +10,7 @@ doveop团队的技术博客
 
 ### 最新
 
+* [grafana 6.4.3 结合zabbix 4.0.13 展示监控数据](http://blog.doveop.com/articles/2019/10/28/1572235259816.html)
 * [redis cluster + redis replication 搭建](http://blog.doveop.com/articles/2019/10/22/1571727179954.html)
 * [02 Docker 命令大全](http://blog.doveop.com/articles/2019/10/05/1570263645218.html)
 * [05 非正常应用方式启动的镜像制作](http://blog.doveop.com/articles/2019/10/05/1570258891768.html)
